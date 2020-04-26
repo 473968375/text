@@ -1,0 +1,6 @@
+<!--pages/uuser/user.wxml-->
+<view  class="g">
+<view class="myface">
+<image  src="{{userInfo.avatarUrl}}" ></image>
+<text>{{userInfo.nickName}}</text>
+</view></view>

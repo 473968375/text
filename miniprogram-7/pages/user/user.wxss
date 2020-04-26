@@ -1,0 +1,10 @@
+/* pages/uuser/user.wxss */
+.g{
+  width: 100%;height: 200px;
+  background: url("https://wx.qlogo.cn/mmopen/vi_32/PiajxSqBRaELME6UhrZGvK61jKiaHOz4ChdesXxDzRqkFJkRF9gSHBXxdXEUfU9sf6rY2SrUdU6UORBLvOy4qNhg/132")  no-repeat center;
+  background-size:100% 100%; 
+}
+.myface{width:100px; height:100px; border:10px solid #F1F2F3; border-radius:100%; margin:30px auto;
+
+}
+.myface image{width:100%; border-radius:100%;height: 100%;}
